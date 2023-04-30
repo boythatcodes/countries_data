@@ -2009,11 +2009,11 @@
         "isocode": "524",
         "dialling_code": "+977",
         "currency_code": "NPR",
-        "currency_name": "Nepalese rupee",
-        "currency_symbol": "₨",
+        "currency_name": "Nepalese Rupee",
+        "currency_symbol": "रू",
         "language_code": "ne",
         "language_name": "Nepali",
-        "language_native_name": ""
+        "language_native_name": "नेपाली"
     },
     {
         "name": "Netherlands",
