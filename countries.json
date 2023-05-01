@@ -11,7 +11,9 @@
         "currency_symbol": "؋",
         "language_code": "ps",
         "language_name": "Pashto",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 9,
+        "phone_length_max": 9
     },
     {
         "name": "Albania",
@@ -25,7 +27,9 @@
         "currency_symbol": "L",
         "language_code": "sq",
         "language_name": "Albanian",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 9,
+        "phone_length_max": 9
     },
     {
         "name": "Algeria",
@@ -39,7 +43,9 @@
         "currency_symbol": "د.ج",
         "language_code": "ar",
         "language_name": "Arabic",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 9,
+        "phone_length_max": 9
     },
     {
         "name": "American Samoa",
@@ -53,7 +59,9 @@
         "currency_symbol": "$",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 10,
+        "phone_length_max": 10
     },
     {
         "name": "Andorra",
@@ -67,7 +75,9 @@
         "currency_symbol": "€",
         "language_code": "ca",
         "language_name": "Catalan",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 6,
+        "phone_length_max": 6
     },
     {
         "name": "Angola",
@@ -81,7 +91,9 @@
         "currency_symbol": "Kz",
         "language_code": "pt",
         "language_name": "Portuguese",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 9,
+        "phone_length_max": 9
     },
     {
         "name": "Anguilla",
@@ -95,7 +107,9 @@
         "currency_symbol": "$",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 10,
+        "phone_length_max": 11
     },
     {
         "name": "Antigua and Barbuda",
@@ -109,7 +123,9 @@
         "currency_symbol": "$",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 10,
+        "phone_length_max": 10
     },
     {
         "name": "Argentina",
@@ -123,7 +139,9 @@
         "currency_symbol": "$",
         "language_code": "es",
         "language_name": "Spanish",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 6,
+        "phone_length_max": 8
     },
     {
         "name": "Armenia",
@@ -137,7 +155,9 @@
         "currency_symbol": "",
         "language_code": "hy",
         "language_name": "Armenian",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 6,
+        "phone_length_max": 6
     },
     {
         "name": "Aruba",
@@ -151,7 +171,9 @@
         "currency_symbol": "ƒ",
         "language_code": "nl",
         "language_name": "Dutch",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 7,
+        "phone_length_max": 7
     },
     {
         "name": "Australia",
@@ -165,7 +187,9 @@
         "currency_symbol": "$",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 9,
+        "phone_length_max": 9
     },
     {
         "name": "Azerbaijan",
@@ -179,7 +203,9 @@
         "currency_symbol": "",
         "language_code": "az",
         "language_name": "Azerbaijani",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 9,
+        "phone_length_max": 9
     },
     {
         "name": "Bahamas",
@@ -193,7 +219,9 @@
         "currency_symbol": "$",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 10,
+        "phone_length_max": 10
     },
     {
         "name": "Bahrain",
@@ -207,7 +235,9 @@
         "currency_symbol": ".د.ب",
         "language_code": "ar",
         "language_name": "Arabic",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 8,
+        "phone_length_max": 8
     },
     {
         "name": "Bangladesh",
@@ -221,7 +251,9 @@
         "currency_symbol": "৳",
         "language_code": "bn",
         "language_name": "Bengali",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 10,
+        "phone_length_max": 10
     },
     {
         "name": "Barbados",
@@ -235,7 +267,9 @@
         "currency_symbol": "$",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 10,
+        "phone_length_max": 10
     },
     {
         "name": "Belarus",
@@ -249,7 +283,9 @@
         "currency_symbol": "Br",
         "language_code": "be",
         "language_name": "Belarusian",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 9,
+        "phone_length_max": 9
     },
     {
         "name": "Belgium",
@@ -263,7 +299,9 @@
         "currency_symbol": "€",
         "language_code": "nl",
         "language_name": "Dutch",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 9,
+        "phone_length_max": 9
     },
     {
         "name": "Belize",
@@ -277,7 +315,9 @@
         "currency_symbol": "$",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 7,
+        "phone_length_max": 7
     },
     {
         "name": "Benin",
@@ -291,7 +331,9 @@
         "currency_symbol": "Fr",
         "language_code": "fr",
         "language_name": "French",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 8,
+        "phone_length_max": 8
     },
     {
         "name": "Bermuda",
@@ -305,7 +347,9 @@
         "currency_symbol": "$",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 10,
+        "phone_length_max": 10
     },
     {
         "name": "Bhutan",
@@ -319,7 +363,9 @@
         "currency_symbol": "Nu.",
         "language_code": "dz",
         "language_name": "Dzongkha",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 7,
+        "phone_length_max": 7
     },
     {
         "name": "Bolivia (Plurinational State of)",
@@ -333,7 +379,9 @@
         "currency_symbol": "Bs.",
         "language_code": "es",
         "language_name": "Spanish",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 9,
+        "phone_length_max": 9
     },
     {
         "name": "Bosnia and Herzegovina",
@@ -347,7 +395,9 @@
         "currency_symbol": "",
         "language_code": "bs",
         "language_name": "Bosnian",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 8,
+        "phone_length_max": 8
     },
     {
         "name": "Botswana",
@@ -361,7 +411,9 @@
         "currency_symbol": "P",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 7,
+        "phone_length_max": 7
     },
     {
         "name": "Brazil",
@@ -375,7 +427,9 @@
         "currency_symbol": "R$",
         "language_code": "pt",
         "language_name": "Portuguese",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 11,
+        "phone_length_max": 11
     },
     {
         "name": "British Indian Ocean Territory",
@@ -389,7 +443,9 @@
         "currency_symbol": "$",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 7,
+        "phone_length_max": 7
     },
     {
         "name": "Virgin Islands (British)",
@@ -403,7 +459,9 @@
         "currency_symbol": "$",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 10,
+        "phone_length_max": 10
     },
     {
         "name": "Virgin Islands (U.S.)",
@@ -417,7 +475,9 @@
         "currency_symbol": "$",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 10,
+        "phone_length_max": 10
     },
     {
         "name": "Brunei Darussalam",
@@ -431,7 +491,9 @@
         "currency_symbol": "$",
         "language_code": "ms",
         "language_name": "Malay",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 7,
+        "phone_length_max": 7
     },
     {
         "name": "Bulgaria",
@@ -445,7 +507,9 @@
         "currency_symbol": "лв",
         "language_code": "bg",
         "language_name": "Bulgarian",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 9,
+        "phone_length_max": 9
     },
     {
         "name": "Burkina Faso",
@@ -459,7 +523,9 @@
         "currency_symbol": "Fr",
         "language_code": "fr",
         "language_name": "French",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 8,
+        "phone_length_max": 8
     },
     {
         "name": "Burundi",
@@ -473,7 +539,9 @@
         "currency_symbol": "Fr",
         "language_code": "fr",
         "language_name": "French",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 8,
+        "phone_length_max": 8
     },
     {
         "name": "Cambodia",
@@ -487,7 +555,9 @@
         "currency_symbol": "៛",
         "language_code": "km",
         "language_name": "Khmer",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 9,
+        "phone_length_max": 9
     },
     {
         "name": "Cameroon",
@@ -501,7 +571,9 @@
         "currency_symbol": "Fr",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 9,
+        "phone_length_max": 9
     },
     {
         "name": "Canada",
@@ -515,7 +587,9 @@
         "currency_symbol": "$",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 10,
+        "phone_length_max": 10
     },
     {
         "name": "Cabo Verde",
@@ -529,7 +603,9 @@
         "currency_symbol": "Esc",
         "language_code": "pt",
         "language_name": "Portuguese",
-        "language_native_name": "Português"
+        "language_native_name": "Português",
+        "phone_length_min": 7,
+        "phone_length_max": 7
     },
     {
         "name": "Cayman Islands",
@@ -543,7 +619,9 @@
         "currency_symbol": "$",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 10,
+        "phone_length_max": 10
     },
     {
         "name": "Central African Republic",
@@ -557,7 +635,9 @@
         "currency_symbol": "Fr",
         "language_code": "fr",
         "language_name": "French",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 8,
+        "phone_length_max": 8
     },
     {
         "name": "Central African Republic",
@@ -571,7 +651,9 @@
         "currency_symbol": "Fr",
         "language_code": "fr",
         "language_name": "French",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 8,
+        "phone_length_max": 8
     },
     {
         "name": "Chile",
@@ -585,7 +667,9 @@
         "currency_symbol": "$",
         "language_code": "es",
         "language_name": "Spanish",
-        "language_native_name": "Español"
+        "language_native_name": "Español",
+        "phone_length_min": 9,
+        "phone_length_max": 9
     },
     {
         "name": "China",
@@ -599,7 +683,9 @@
         "currency_symbol": "¥",
         "language_code": "zh",
         "language_name": "Chinese",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 11,
+        "phone_length_max": 11
     },
     {
         "name": "Colombia",
@@ -613,7 +699,9 @@
         "currency_symbol": "$",
         "language_code": "es",
         "language_name": "Spanish",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 10,
+        "phone_length_max": 10
     },
     {
         "name": "Comoros",
@@ -627,7 +715,9 @@
         "currency_symbol": "Fr",
         "language_code": "fr",
         "language_name": "French",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 7,
+        "phone_length_max": 7
     },
     {
         "name": "Congo",
@@ -641,7 +731,9 @@
         "currency_symbol": "Fr",
         "language_code": "fr",
         "language_name": "French",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 9,
+        "phone_length_max": 9
     },
     {
         "name": "Congo (Democratic Republic of the)",
@@ -655,7 +747,9 @@
         "currency_symbol": "Fr",
         "language_code": "fr",
         "language_name": "French",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 7,
+        "phone_length_max": 7
     },
     {
         "name": "Cook Islands",
@@ -669,7 +763,9 @@
         "currency_symbol": "$",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 5,
+        "phone_length_max": 5
     },
     {
         "name": "Costa Rica",
@@ -683,7 +779,9 @@
         "currency_symbol": "₡",
         "language_code": "es",
         "language_name": "Spanish",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 8,
+        "phone_length_max": 8
     },
     {
         "name": "Croatia",
@@ -697,7 +795,9 @@
         "currency_symbol": "kn",
         "language_code": "hr",
         "language_name": "Croatian",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 9,
+        "phone_length_max": 9
     },
     {
         "name": "Cuba",
@@ -711,7 +811,9 @@
         "currency_symbol": "$",
         "language_code": "es",
         "language_name": "Spanish",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 8,
+        "phone_length_max": 8
     },
     {
         "name": "Cuba",
@@ -725,7 +827,9 @@
         "currency_symbol": "$",
         "language_code": "es",
         "language_name": "Spanish",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 8,
+        "phone_length_max": 8
     },
     {
         "name": "Cyprus",
@@ -739,7 +843,9 @@
         "currency_symbol": "€",
         "language_code": "tr",
         "language_name": "Turkish",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 8,
+        "phone_length_max": 8
     },
     {
         "name": "Czech Republic",
@@ -753,7 +859,9 @@
         "currency_symbol": "Kč",
         "language_code": "cs",
         "language_name": "Czech",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 9,
+        "phone_length_max": 9
     },
     {
         "name": "Denmark",
@@ -767,7 +875,9 @@
         "currency_symbol": "kr",
         "language_code": "da",
         "language_name": "Danish",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 8,
+        "phone_length_max": 8
     },
     {
         "name": "Djibouti",
@@ -781,7 +891,9 @@
         "currency_symbol": "Fr",
         "language_code": "fr",
         "language_name": "French",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 10,
+        "phone_length_max": 10
     },
     {
         "name": "Dominica",
@@ -795,7 +907,9 @@
         "currency_symbol": "$",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 10,
+        "phone_length_max": 10
     },
     {
         "name": "Dominican Republic",
@@ -809,7 +923,9 @@
         "currency_symbol": "$",
         "language_code": "es",
         "language_name": "Spanish",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 10,
+        "phone_length_max": 10
     },
     {
         "name": "Ecuador",
@@ -823,7 +939,9 @@
         "currency_symbol": "$",
         "language_code": "es",
         "language_name": "Spanish",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 9,
+        "phone_length_max": 9
     },
     {
         "name": "Egypt",
@@ -837,7 +955,9 @@
         "currency_symbol": "£",
         "language_code": "ar",
         "language_name": "Arabic",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 10,
+        "phone_length_max": 10
     },
     {
         "name": "El Salvador",
@@ -851,7 +971,9 @@
         "currency_symbol": "$",
         "language_code": "es",
         "language_name": "Spanish",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 8,
+        "phone_length_max": 8
     },
     {
         "name": "Equatorial Guinea",
@@ -865,7 +987,9 @@
         "currency_symbol": "Fr",
         "language_code": "es",
         "language_name": "Spanish",
-        "language_native_name": "Español"
+        "language_native_name": "Español",
+        "phone_length_min": 9,
+        "phone_length_max": 9
     },
     {
         "name": "Eritrea",
@@ -879,7 +1003,9 @@
         "currency_symbol": "Nfk",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 7,
+        "phone_length_max": 7
     },
     {
         "name": "Estonia",
@@ -893,7 +1019,9 @@
         "currency_symbol": "€",
         "language_code": "et",
         "language_name": "Estonian",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 8,
+        "phone_length_max": 8
     },
     {
         "name": "Ethiopia",
@@ -907,7 +1035,9 @@
         "currency_symbol": "Br",
         "language_code": "am",
         "language_name": "Amharic",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 9,
+        "phone_length_max": 9
     },
     {
         "name": "Falkland Islands (Malvinas)",
@@ -921,7 +1051,9 @@
         "currency_symbol": "£",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 5,
+        "phone_length_max": 5
     },
     {
         "name": "Faroe Islands",
@@ -935,7 +1067,9 @@
         "currency_symbol": "kr",
         "language_code": "fo",
         "language_name": "Faroese",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 5,
+        "phone_length_max": 5
     },
     {
         "name": "Fiji",
@@ -949,7 +1083,9 @@
         "currency_symbol": "$",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 7,
+        "phone_length_max": 7
     },
     {
         "name": "Finland",
@@ -963,7 +1099,9 @@
         "currency_symbol": "€",
         "language_code": "fi",
         "language_name": "Finnish",
-        "language_native_name": "suomi"
+        "language_native_name": "suomi",
+        "phone_length_min": 7,
+        "phone_length_max": 10
     },
     {
         "name": "France",
@@ -977,7 +1115,9 @@
         "currency_symbol": "€",
         "language_code": "fr",
         "language_name": "French",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 9,
+        "phone_length_max": 9
     },
     {
         "name": "French Guiana",
@@ -991,7 +1131,9 @@
         "currency_symbol": "€",
         "language_code": "fr",
         "language_name": "French",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 9,
+        "phone_length_max": 9
     },
     {
         "name": "French Polynesia",
@@ -1005,7 +1147,9 @@
         "currency_symbol": "Fr",
         "language_code": "fr",
         "language_name": "French",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 8,
+        "phone_length_max": 8
     },
     {
         "name": "Gabon",
@@ -1019,7 +1163,9 @@
         "currency_symbol": "Fr",
         "language_code": "fr",
         "language_name": "French",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 7,
+        "phone_length_max": 7
     },
     {
         "name": "Gambia",
@@ -1033,7 +1179,9 @@
         "currency_symbol": "D",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 7,
+        "phone_length_max": 7
     },
     {
         "name": "Georgia",
@@ -1047,7 +1195,9 @@
         "currency_symbol": "ლ",
         "language_code": "ka",
         "language_name": "Georgian",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 9,
+        "phone_length_max": 9
     },
     {
         "name": "Germany",
@@ -1061,7 +1211,9 @@
         "currency_symbol": "€",
         "language_code": "de",
         "language_name": "German",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 10,
+        "phone_length_max": 10
     },
     {
         "name": "Ghana",
@@ -1075,7 +1227,9 @@
         "currency_symbol": "₵",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 9,
+        "phone_length_max": 9
     },
     {
         "name": "Gibraltar",
@@ -1089,7 +1243,9 @@
         "currency_symbol": "£",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 8,
+        "phone_length_max": 8
     },
     {
         "name": "Greece",
@@ -1103,7 +1259,9 @@
         "currency_symbol": "€",
         "language_code": "el",
         "language_name": "Greek (modern)",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 10,
+        "phone_length_max": 10
     },
     {
         "name": "Greenland",
@@ -1117,7 +1275,9 @@
         "currency_symbol": "kr",
         "language_code": "kl",
         "language_name": "Kalaallisut",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 6,
+        "phone_length_max": 6
     },
     {
         "name": "Grenada",
@@ -1131,7 +1291,9 @@
         "currency_symbol": "$",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 10,
+        "phone_length_max": 10
     },
     {
         "name": "Guadeloupe",
@@ -1145,7 +1307,9 @@
         "currency_symbol": "€",
         "language_code": "fr",
         "language_name": "French",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 9,
+        "phone_length_max": 9
     },
     {
         "name": "Guam",
@@ -1159,7 +1323,9 @@
         "currency_symbol": "$",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 10,
+        "phone_length_max": 10
     },
     {
         "name": "Guatemala",
@@ -1173,7 +1339,9 @@
         "currency_symbol": "Q",
         "language_code": "es",
         "language_name": "Spanish",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 8,
+        "phone_length_max": 8
     },
     {
         "name": "Guinea",
@@ -1187,7 +1355,9 @@
         "currency_symbol": "Fr",
         "language_code": "fr",
         "language_name": "French",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 9,
+        "phone_length_max": 9
     },
     {
         "name": "Guinea-Bissau",
@@ -1201,7 +1371,9 @@
         "currency_symbol": "Fr",
         "language_code": "pt",
         "language_name": "Portuguese",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 9,
+        "phone_length_max": 9
     },
     {
         "name": "Guyana",
@@ -1215,7 +1387,9 @@
         "currency_symbol": "$",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 7,
+        "phone_length_max": 7
     },
     {
         "name": "Haiti",
@@ -1229,7 +1403,9 @@
         "currency_symbol": "G",
         "language_code": "fr",
         "language_name": "French",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 8,
+        "phone_length_max": 8
     },
     {
         "name": "Holy See",
@@ -1243,7 +1419,9 @@
         "currency_symbol": "€",
         "language_code": "fr",
         "language_name": "French",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 10,
+        "phone_length_max": 10
     },
     {
         "name": "Honduras",
@@ -1257,7 +1435,9 @@
         "currency_symbol": "L",
         "language_code": "es",
         "language_name": "Spanish",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 8,
+        "phone_length_max": 8
     },
     {
         "name": "Hong Kong",
@@ -1271,7 +1451,9 @@
         "currency_symbol": "$",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 8,
+        "phone_length_max": 8
     },
     {
         "name": "Hungary",
@@ -1285,7 +1467,9 @@
         "currency_symbol": "Ft",
         "language_code": "hu",
         "language_name": "Hungarian",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 9,
+        "phone_length_max": 9
     },
     {
         "name": "Iceland",
@@ -1299,7 +1483,9 @@
         "currency_symbol": "kr",
         "language_code": "is",
         "language_name": "Icelandic",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 7,
+        "phone_length_max": 7
     },
     {
         "name": "India",
@@ -1313,7 +1499,9 @@
         "currency_symbol": "₹",
         "language_code": "hi",
         "language_name": "Hindi",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 10,
+        "phone_length_max": 10
     },
     {
         "name": "Indonesia",
@@ -1327,7 +1515,9 @@
         "currency_symbol": "Rp",
         "language_code": "id",
         "language_name": "Indonesian",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 11,
+        "phone_length_max": 11
     },
     {
         "name": "Côte d'Ivoire",
@@ -1341,7 +1531,9 @@
         "currency_symbol": "Fr",
         "language_code": "fr",
         "language_name": "French",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 8,
+        "phone_length_max": 8
     },
     {
         "name": "Iran (Islamic Republic of)",
@@ -1355,7 +1547,9 @@
         "currency_symbol": "﷼",
         "language_code": "fa",
         "language_name": "Persian (Farsi)",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 11,
+        "phone_length_max": 11
     },
     {
         "name": "Iraq",
@@ -1369,7 +1563,9 @@
         "currency_symbol": "ع.د",
         "language_code": "ar",
         "language_name": "Arabic",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 10,
+        "phone_length_max": 10
     },
     {
         "name": "Ireland",
@@ -1383,7 +1579,9 @@
         "currency_symbol": "€",
         "language_code": "ga",
         "language_name": "Irish",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 9,
+        "phone_length_max": 9
     },
     {
         "name": "Israel",
@@ -1397,7 +1595,9 @@
         "currency_symbol": "₪",
         "language_code": "he",
         "language_name": "Hebrew (modern)",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 9,
+        "phone_length_max": 9
     },
     {
         "name": "Italy",
@@ -1411,7 +1611,9 @@
         "currency_symbol": "€",
         "language_code": "it",
         "language_name": "Italian",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 10,
+        "phone_length_max": 10
     },
     {
         "name": "Jamaica",
@@ -1425,7 +1627,9 @@
         "currency_symbol": "$",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 10,
+        "phone_length_max": 10
     },
     {
         "name": "Japan",
@@ -1439,7 +1643,9 @@
         "currency_symbol": "¥",
         "language_code": "ja",
         "language_name": "Japanese",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 10,
+        "phone_length_max": 10
     },
     {
         "name": "Jordan",
@@ -1453,7 +1659,9 @@
         "currency_symbol": "د.ا",
         "language_code": "ar",
         "language_name": "Arabic",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 8,
+        "phone_length_max": 9
     },
     {
         "name": "Kazakhstan",
@@ -1467,7 +1675,9 @@
         "currency_symbol": "",
         "language_code": "kk",
         "language_name": "Kazakh",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 10,
+        "phone_length_max": 10
     },
     {
         "name": "Kenya",
@@ -1481,7 +1691,9 @@
         "currency_symbol": "Sh",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 10,
+        "phone_length_max": 10
     },
     {
         "name": "Kiribati",
@@ -1495,7 +1707,9 @@
         "currency_symbol": "$",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 8,
+        "phone_length_max": 8
     },
     {
         "name": "Kuwait",
@@ -1509,7 +1723,9 @@
         "currency_symbol": "د.ك",
         "language_code": "ar",
         "language_name": "Arabic",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 8,
+        "phone_length_max": 8
     },
     {
         "name": "Kyrgyzstan",
@@ -1523,7 +1739,9 @@
         "currency_symbol": "с",
         "language_code": "ky",
         "language_name": "Kyrgyz",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 9,
+        "phone_length_max": 9
     },
     {
         "name": "Lao People's Democratic Republic",
@@ -1537,7 +1755,9 @@
         "currency_symbol": "₭",
         "language_code": "lo",
         "language_name": "Lao",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 8,
+        "phone_length_max": 9
     },
     {
         "name": "Latvia",
@@ -1551,7 +1771,9 @@
         "currency_symbol": "€",
         "language_code": "lv",
         "language_name": "Latvian",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 8,
+        "phone_length_max": 8
     },
     {
         "name": "Lebanon",
@@ -1565,7 +1787,9 @@
         "currency_symbol": "ل.ل",
         "language_code": "ar",
         "language_name": "Arabic",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 7,
+        "phone_length_max": 8
     },
     {
         "name": "Lesotho",
@@ -1579,7 +1803,9 @@
         "currency_symbol": "L",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 8,
+        "phone_length_max": 8
     },
     {
         "name": "Liberia",
@@ -1593,7 +1819,9 @@
         "currency_symbol": "$",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 8,
+        "phone_length_max": 9
     },
     {
         "name": "Libya",
@@ -1607,7 +1835,9 @@
         "currency_symbol": "ل.د",
         "language_code": "ar",
         "language_name": "Arabic",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 10,
+        "phone_length_max": 10
     },
     {
         "name": "Liechtenstein",
@@ -1621,7 +1851,9 @@
         "currency_symbol": "Fr",
         "language_code": "de",
         "language_name": "German",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 7,
+        "phone_length_max": 7
     },
     {
         "name": "Lithuania",
@@ -1635,7 +1867,9 @@
         "currency_symbol": "€",
         "language_code": "lt",
         "language_name": "Lithuanian",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 8,
+        "phone_length_max": 8
     },
     {
         "name": "Luxembourg",
@@ -1649,7 +1883,9 @@
         "currency_symbol": "€",
         "language_code": "fr",
         "language_name": "French",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 9,
+        "phone_length_max": 9
     },
     {
         "name": "Macao",
@@ -1663,7 +1899,9 @@
         "currency_symbol": "P",
         "language_code": "zh",
         "language_name": "Chinese",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 8,
+        "phone_length_max": 8
     },
     {
         "name": "Macedonia (the former Yugoslav Republic of)",
@@ -1677,7 +1915,9 @@
         "currency_symbol": "ден",
         "language_code": "mk",
         "language_name": "Macedonian",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 8,
+        "phone_length_max": 8
     },
     {
         "name": "Madagascar",
@@ -1691,7 +1931,9 @@
         "currency_symbol": "Ar",
         "language_code": "fr",
         "language_name": "French",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 7,
+        "phone_length_max": 7
     },
     {
         "name": "Malawi",
@@ -1705,7 +1947,9 @@
         "currency_symbol": "MK",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 7,
+        "phone_length_max": 9
     },
     {
         "name": "Malaysia",
@@ -1719,7 +1963,9 @@
         "currency_symbol": "RM",
         "language_code": "",
         "language_name": "Malaysian",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 7,
+        "phone_length_max": 7
     },
     {
         "name": "Maldives",
@@ -1733,7 +1979,9 @@
         "currency_symbol": ".ރ",
         "language_code": "dv",
         "language_name": "Divehi",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 7,
+        "phone_length_max": 7
     },
     {
         "name": "Mali",
@@ -1747,7 +1995,9 @@
         "currency_symbol": "Fr",
         "language_code": "fr",
         "language_name": "French",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 8,
+        "phone_length_max": 8
     },
     {
         "name": "Malta",
@@ -1761,7 +2011,9 @@
         "currency_symbol": "€",
         "language_code": "mt",
         "language_name": "Maltese",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 8,
+        "phone_length_max": 8
     },
     {
         "name": "Marshall Islands",
@@ -1775,7 +2027,9 @@
         "currency_symbol": "$",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 7,
+        "phone_length_max": 7
     },
     {
         "name": "Martinique",
@@ -1789,7 +2043,9 @@
         "currency_symbol": "€",
         "language_code": "fr",
         "language_name": "French",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 9,
+        "phone_length_max": 9
     },
     {
         "name": "Mauritania",
@@ -1803,7 +2059,9 @@
         "currency_symbol": "UM",
         "language_code": "ar",
         "language_name": "Arabic",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 8,
+        "phone_length_max": 8
     },
     {
         "name": "Mauritius",
@@ -1817,7 +2075,9 @@
         "currency_symbol": "₨",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 8,
+        "phone_length_max": 8
     },
     {
         "name": "Mayotte",
@@ -1831,7 +2091,9 @@
         "currency_symbol": "€",
         "language_code": "fr",
         "language_name": "French",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 10,
+        "phone_length_max": 10
     },
     {
         "name": "Mexico",
@@ -1845,7 +2107,9 @@
         "currency_symbol": "$",
         "language_code": "es",
         "language_name": "Spanish",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 10,
+        "phone_length_max": 10
     },
     {
         "name": "Micronesia (Federated States of)",
@@ -1859,7 +2123,9 @@
         "currency_symbol": "$",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 7,
+        "phone_length_max": 7
     },
     {
         "name": "Moldova (Republic of)",
@@ -1873,7 +2139,9 @@
         "currency_symbol": "L",
         "language_code": "ro",
         "language_name": "Romanian",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 8,
+        "phone_length_max": 8
     },
     {
         "name": "Monaco",
@@ -1887,7 +2155,9 @@
         "currency_symbol": "€",
         "language_code": "fr",
         "language_name": "French",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 8,
+        "phone_length_max": 8
     },
     {
         "name": "Mongolia",
@@ -1901,7 +2171,9 @@
         "currency_symbol": "₮",
         "language_code": "mn",
         "language_name": "Mongolian",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 8,
+        "phone_length_max": 8
     },
     {
         "name": "Montenegro",
@@ -1915,7 +2187,9 @@
         "currency_symbol": "€",
         "language_code": "sr",
         "language_name": "Serbian",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 8,
+        "phone_length_max": 8
     },
     {
         "name": "Montserrat",
@@ -1929,7 +2203,9 @@
         "currency_symbol": "$",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 10,
+        "phone_length_max": 10
     },
     {
         "name": "Morocco",
@@ -1943,7 +2219,9 @@
         "currency_symbol": "د.م.",
         "language_code": "ar",
         "language_name": "Arabic",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 9,
+        "phone_length_max": 9
     },
     {
         "name": "Mozambique",
@@ -1957,7 +2235,9 @@
         "currency_symbol": "MT",
         "language_code": "pt",
         "language_name": "Portuguese",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 12,
+        "phone_length_max": 12
     },
     {
         "name": "Myanmar",
@@ -1971,7 +2251,9 @@
         "currency_symbol": "Ks",
         "language_code": "my",
         "language_name": "Burmese",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 7,
+        "phone_length_max": 10
     },
     {
         "name": "Namibia",
@@ -1985,7 +2267,9 @@
         "currency_symbol": "$",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 7,
+        "phone_length_max": 7
     },
     {
         "name": "Nauru",
@@ -1999,7 +2283,9 @@
         "currency_symbol": "$",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 7,
+        "phone_length_max": 7
     },
     {
         "name": "Nepal",
@@ -2009,11 +2295,13 @@
         "isocode": "524",
         "dialling_code": "+977",
         "currency_code": "NPR",
-        "currency_name": "Nepalese Rupee",
-        "currency_symbol": "रू",
+        "currency_name": "Nepalese rupee",
+        "currency_symbol": "₨",
         "language_code": "ne",
         "language_name": "Nepali",
-        "language_native_name": "नेपाली"
+        "language_native_name": "",
+        "phone_length_min": 10,
+        "phone_length_max": 10
     },
     {
         "name": "Netherlands",
@@ -2027,7 +2315,9 @@
         "currency_symbol": "€",
         "language_code": "nl",
         "language_name": "Dutch",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 9,
+        "phone_length_max": 9
     },
     {
         "name": "New Caledonia",
@@ -2041,7 +2331,9 @@
         "currency_symbol": "Fr",
         "language_code": "fr",
         "language_name": "French",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 6,
+        "phone_length_max": 6
     },
     {
         "name": "New Zealand",
@@ -2055,7 +2347,9 @@
         "currency_symbol": "$",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 8,
+        "phone_length_max": 9
     },
     {
         "name": "Nicaragua",
@@ -2069,7 +2363,9 @@
         "currency_symbol": "C$",
         "language_code": "es",
         "language_name": "Spanish",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 8,
+        "phone_length_max": 8
     },
     {
         "name": "Niger",
@@ -2083,7 +2379,9 @@
         "currency_symbol": "Fr",
         "language_code": "fr",
         "language_name": "French",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 8,
+        "phone_length_max": 8
     },
     {
         "name": "Nigeria",
@@ -2097,7 +2395,9 @@
         "currency_symbol": "₦",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 8,
+        "phone_length_max": 8
     },
     {
         "name": "Niue",
@@ -2111,7 +2411,9 @@
         "currency_symbol": "$",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 4,
+        "phone_length_max": 4
     },
     {
         "name": "Norfolk Island",
@@ -2125,7 +2427,9 @@
         "currency_symbol": "$",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 6,
+        "phone_length_max": 6
     },
     {
         "name": "Korea (Democratic People's Republic of)",
@@ -2139,7 +2443,9 @@
         "currency_symbol": "₩",
         "language_code": "ko",
         "language_name": "Korean",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 4,
+        "phone_length_max": 13
     },
     {
         "name": "Northern Mariana Islands",
@@ -2153,7 +2459,9 @@
         "currency_symbol": "$",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 10,
+        "phone_length_max": 10
     },
     {
         "name": "Norway",
@@ -2167,7 +2475,9 @@
         "currency_symbol": "kr",
         "language_code": "no",
         "language_name": "Norwegian",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 10,
+        "phone_length_max": 10
     },
     {
         "name": "Oman",
@@ -2181,7 +2491,9 @@
         "currency_symbol": "ر.ع.",
         "language_code": "ar",
         "language_name": "Arabic",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 8,
+        "phone_length_max": 8
     },
     {
         "name": "Pakistan",
@@ -2195,7 +2507,9 @@
         "currency_symbol": "₨",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 10,
+        "phone_length_max": 10
     },
     {
         "name": "Palau",
@@ -2209,7 +2523,9 @@
         "currency_symbol": "$",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 7,
+        "phone_length_max": 7
     },
     {
         "name": "Palestine, State of",
@@ -2223,7 +2539,9 @@
         "currency_symbol": "₪",
         "language_code": "ar",
         "language_name": "Arabic",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 9,
+        "phone_length_max": 9
     },
     {
         "name": "Panama",
@@ -2237,7 +2555,9 @@
         "currency_symbol": "$",
         "language_code": "es",
         "language_name": "Spanish",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 8,
+        "phone_length_max": 8
     },
     {
         "name": "Papua New Guinea",
@@ -2251,7 +2571,9 @@
         "currency_symbol": "K",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 8,
+        "phone_length_max": 8
     },
     {
         "name": "Paraguay",
@@ -2265,7 +2587,9 @@
         "currency_symbol": "₲",
         "language_code": "es",
         "language_name": "Spanish",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 9,
+        "phone_length_max": 9
     },
     {
         "name": "Peru",
@@ -2279,7 +2603,9 @@
         "currency_symbol": "S/.",
         "language_code": "es",
         "language_name": "Spanish",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 9,
+        "phone_length_max": 9
     },
     {
         "name": "Philippines",
@@ -2293,7 +2619,9 @@
         "currency_symbol": "₱",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 10,
+        "phone_length_max": 10
     },
     {
         "name": "Poland",
@@ -2307,7 +2635,9 @@
         "currency_symbol": "zł",
         "language_code": "pl",
         "language_name": "Polish",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 9,
+        "phone_length_max": 9
     },
     {
         "name": "Portugal",
@@ -2321,7 +2651,9 @@
         "currency_symbol": "€",
         "language_code": "pt",
         "language_name": "Portuguese",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 9,
+        "phone_length_max": 9
     },
     {
         "name": "Puerto Rico",
@@ -2335,7 +2667,9 @@
         "currency_symbol": "$",
         "language_code": "es",
         "language_name": "Spanish",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 10,
+        "phone_length_max": 10
     },
     {
         "name": "Qatar",
@@ -2349,7 +2683,9 @@
         "currency_symbol": "ر.ق",
         "language_code": "ar",
         "language_name": "Arabic",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 8,
+        "phone_length_max": 8
     },
     {
         "name": "Republic of Kosovo",
@@ -2363,7 +2699,9 @@
         "currency_symbol": "€",
         "language_code": "sq",
         "language_name": "Albanian",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 9,
+        "phone_length_max": 9
     },
     {
         "name": "Réunion",
@@ -2377,7 +2715,9 @@
         "currency_symbol": "€",
         "language_code": "fr",
         "language_name": "French",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 10,
+        "phone_length_max": 10
     },
     {
         "name": "Romania",
@@ -2391,7 +2731,9 @@
         "currency_symbol": "lei",
         "language_code": "ro",
         "language_name": "Romanian",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 10,
+        "phone_length_max": 10
     },
     {
         "name": "Russian Federation",
@@ -2405,7 +2747,9 @@
         "currency_symbol": "₽",
         "language_code": "ru",
         "language_name": "Russian",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 10,
+        "phone_length_max": 10
     },
     {
         "name": "Rwanda",
@@ -2419,7 +2763,9 @@
         "currency_symbol": "Fr",
         "language_code": "rw",
         "language_name": "Kinyarwanda",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 9,
+        "phone_length_max": 9
     },
     {
         "name": "Saint Barthélemy",
@@ -2433,7 +2779,9 @@
         "currency_symbol": "€",
         "language_code": "fr",
         "language_name": "French",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 9,
+        "phone_length_max": 9
     },
     {
         "name": "Saint Helena, Ascension and Tristan da Cunha",
@@ -2447,7 +2795,9 @@
         "currency_symbol": "£",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 4,
+        "phone_length_max": 4
     },
     {
         "name": "Saint Kitts and Nevis",
@@ -2461,7 +2811,9 @@
         "currency_symbol": "$",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 10,
+        "phone_length_max": 10
     },
     {
         "name": "Saint Lucia",
@@ -2475,7 +2827,9 @@
         "currency_symbol": "$",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 10,
+        "phone_length_max": 10
     },
     {
         "name": "Saint Martin (French part)",
@@ -2489,7 +2843,9 @@
         "currency_symbol": "€",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 9,
+        "phone_length_max": 9
     },
     {
         "name": "Saint Pierre and Miquelon",
@@ -2503,7 +2859,9 @@
         "currency_symbol": "€",
         "language_code": "fr",
         "language_name": "French",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 6,
+        "phone_length_max": 6
     },
     {
         "name": "Saint Vincent and the Grenadines",
@@ -2517,7 +2875,9 @@
         "currency_symbol": "$",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 10,
+        "phone_length_max": 10
     },
     {
         "name": "Samoa",
@@ -2531,7 +2891,9 @@
         "currency_symbol": "T",
         "language_code": "sm",
         "language_name": "Samoan",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 5,
+        "phone_length_max": 7
     },
     {
         "name": "San Marino",
@@ -2545,7 +2907,9 @@
         "currency_symbol": "€",
         "language_code": "it",
         "language_name": "Italian",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 10,
+        "phone_length_max": 10
     },
     {
         "name": "Sao Tome and Principe",
@@ -2559,7 +2923,9 @@
         "currency_symbol": "Db",
         "language_code": "pt",
         "language_name": "Portuguese",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 7,
+        "phone_length_max": 7
     },
     {
         "name": "Saudi Arabia",
@@ -2573,7 +2939,9 @@
         "currency_symbol": "ر.س",
         "language_code": "ar",
         "language_name": "Arabic",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 9,
+        "phone_length_max": 9
     },
     {
         "name": "Senegal",
@@ -2587,7 +2955,9 @@
         "currency_symbol": "Fr",
         "language_code": "fr",
         "language_name": "French",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 9,
+        "phone_length_max": 9
     },
     {
         "name": "Serbia",
@@ -2601,7 +2971,9 @@
         "currency_symbol": "дин.",
         "language_code": "sr",
         "language_name": "Serbian",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 9,
+        "phone_length_max": 9
     },
     {
         "name": "Seychelles",
@@ -2615,7 +2987,9 @@
         "currency_symbol": "₨",
         "language_code": "fr",
         "language_name": "French",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 7,
+        "phone_length_max": 7
     },
     {
         "name": "Sierra Leone",
@@ -2629,7 +3003,9 @@
         "currency_symbol": "Le",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 8,
+        "phone_length_max": 8
     },
     {
         "name": "Singapore",
@@ -2643,7 +3019,9 @@
         "currency_symbol": "$",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 8,
+        "phone_length_max": 8
     },
     {
         "name": "Singapore",
@@ -2657,7 +3035,9 @@
         "currency_symbol": "$",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 8,
+        "phone_length_max": 8
     },
     {
         "name": "Slovakia",
@@ -2671,7 +3051,9 @@
         "currency_symbol": "€",
         "language_code": "sk",
         "language_name": "Slovak",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 9,
+        "phone_length_max": 9
     },
     {
         "name": "Slovenia",
@@ -2685,7 +3067,9 @@
         "currency_symbol": "€",
         "language_code": "sl",
         "language_name": "Slovene",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 9,
+        "phone_length_max": 9
     },
     {
         "name": "Solomon Islands",
@@ -2699,7 +3083,9 @@
         "currency_symbol": "$",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 7,
+        "phone_length_max": 7
     },
     {
         "name": "Somalia",
@@ -2713,7 +3099,9 @@
         "currency_symbol": "Sh",
         "language_code": "ar",
         "language_name": "Arabic",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 8,
+        "phone_length_max": 9
     },
     {
         "name": "South Africa",
@@ -2727,7 +3115,9 @@
         "currency_symbol": "R",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": "English"
+        "language_native_name": "English",
+        "phone_length_min": 9,
+        "phone_length_max": 9
     },
     {
         "name": "Korea (Republic of)",
@@ -2741,7 +3131,9 @@
         "currency_symbol": "₩",
         "language_code": "ko",
         "language_name": "Korean",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 7,
+        "phone_length_max": 8
     },
     {
         "name": "Spain",
@@ -2755,7 +3147,9 @@
         "currency_symbol": "€",
         "language_code": "es",
         "language_name": "Spanish",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 9,
+        "phone_length_max": 9
     },
     {
         "name": "Sri Lanka",
@@ -2769,7 +3163,9 @@
         "currency_symbol": "Rs",
         "language_code": "si",
         "language_name": "Sinhalese",
-        "language_native_name": "සිංහල"
+        "language_native_name": "සිංහල",
+        "phone_length_min": 7,
+        "phone_length_max": 7
     },
     {
         "name": "Sudan",
@@ -2783,7 +3179,9 @@
         "currency_symbol": "ج.س.",
         "language_code": "ar",
         "language_name": "Arabic",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 7,
+        "phone_length_max": 7
     },
     {
         "name": "Suriname",
@@ -2797,7 +3195,9 @@
         "currency_symbol": "$",
         "language_code": "nl",
         "language_name": "Dutch",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 6,
+        "phone_length_max": 7
     },
     {
         "name": "Swaziland",
@@ -2811,7 +3211,9 @@
         "currency_symbol": "L",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 8,
+        "phone_length_max": 8
     },
     {
         "name": "Sweden",
@@ -2825,7 +3227,9 @@
         "currency_symbol": "kr",
         "language_code": "sv",
         "language_name": "Swedish",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 7,
+        "phone_length_max": 7
     },
     {
         "name": "Switzerland",
@@ -2839,7 +3243,9 @@
         "currency_symbol": "Fr",
         "language_code": "de",
         "language_name": "German",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 9,
+        "phone_length_max": 9
     },
     {
         "name": "Syrian Arab Republic",
@@ -2853,7 +3259,9 @@
         "currency_symbol": "£",
         "language_code": "ar",
         "language_name": "Arabic",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 7,
+        "phone_length_max": 7
     },
     {
         "name": "Taiwan",
@@ -2867,7 +3275,9 @@
         "currency_symbol": "$",
         "language_code": "zh",
         "language_name": "Chinese",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 9,
+        "phone_length_max": 9
     },
     {
         "name": "Tajikistan",
@@ -2881,7 +3291,9 @@
         "currency_symbol": "ЅМ",
         "language_code": "tg",
         "language_name": "Tajik",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 9,
+        "phone_length_max": 9
     },
     {
         "name": "Tanzania, United Republic of",
@@ -2895,7 +3307,9 @@
         "currency_symbol": "Sh",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 7,
+        "phone_length_max": 7
     },
     {
         "name": "Thailand",
@@ -2909,7 +3323,9 @@
         "currency_symbol": "฿",
         "language_code": "th",
         "language_name": "Thai",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 9,
+        "phone_length_max": 9
     },
     {
         "name": "Timor-Leste",
@@ -2923,7 +3339,9 @@
         "currency_symbol": "$",
         "language_code": "pt",
         "language_name": "Portuguese",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 7,
+        "phone_length_max": 7
     },
     {
         "name": "Togo",
@@ -2937,7 +3355,9 @@
         "currency_symbol": "Fr",
         "language_code": "fr",
         "language_name": "French",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 8,
+        "phone_length_max": 8
     },
     {
         "name": "Tokelau",
@@ -2951,7 +3371,9 @@
         "currency_symbol": "$",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 5,
+        "phone_length_max": 5
     },
     {
         "name": "Tonga",
@@ -2965,7 +3387,9 @@
         "currency_symbol": "T$",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 5,
+        "phone_length_max": 5
     },
     {
         "name": "Trinidad and Tobago",
@@ -2979,7 +3403,9 @@
         "currency_symbol": "$",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 10,
+        "phone_length_max": 10
     },
     {
         "name": "Tunisia",
@@ -2993,7 +3419,9 @@
         "currency_symbol": "د.ت",
         "language_code": "ar",
         "language_name": "Arabic",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 8,
+        "phone_length_max": 8
     },
     {
         "name": "Turkey",
@@ -3007,7 +3435,9 @@
         "currency_symbol": "",
         "language_code": "tr",
         "language_name": "Turkish",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 11,
+        "phone_length_max": 11
     },
     {
         "name": "Turkmenistan",
@@ -3021,7 +3451,9 @@
         "currency_symbol": "m",
         "language_code": "tk",
         "language_name": "Turkmen",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 8,
+        "phone_length_max": 8
     },
     {
         "name": "Turks and Caicos Islands",
@@ -3035,7 +3467,9 @@
         "currency_symbol": "$",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 10,
+        "phone_length_max": 10
     },
     {
         "name": "Tuvalu",
@@ -3049,7 +3483,9 @@
         "currency_symbol": "$",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 5,
+        "phone_length_max": 5
     },
     {
         "name": "Uganda",
@@ -3063,7 +3499,9 @@
         "currency_symbol": "Sh",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 7,
+        "phone_length_max": 7
     },
     {
         "name": "Ukraine",
@@ -3077,7 +3515,9 @@
         "currency_symbol": "₴",
         "language_code": "uk",
         "language_name": "Ukrainian",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 9,
+        "phone_length_max": 9
     },
     {
         "name": "United Arab Emirates",
@@ -3091,7 +3531,9 @@
         "currency_symbol": "د.إ",
         "language_code": "ar",
         "language_name": "Arabic",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 9,
+        "phone_length_max": 9
     },
     {
         "name": "United Kingdom of Great Britain and Northern Ireland",
@@ -3105,7 +3547,9 @@
         "currency_symbol": "£",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 10,
+        "phone_length_max": 10
     },
     {
         "name": "United States of America",
@@ -3119,7 +3563,9 @@
         "currency_symbol": "$",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": "English"
+        "language_native_name": "English",
+        "phone_length_min": 10,
+        "phone_length_max": 10
     },
     {
         "name": "Uruguay",
@@ -3133,7 +3579,9 @@
         "currency_symbol": "$",
         "language_code": "es",
         "language_name": "Spanish",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 8,
+        "phone_length_max": 8
     },
     {
         "name": "Uzbekistan",
@@ -3147,7 +3595,9 @@
         "currency_symbol": "",
         "language_code": "uz",
         "language_name": "Uzbek",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 9,
+        "phone_length_max": 9
     },
     {
         "name": "Vanuatu",
@@ -3161,7 +3611,9 @@
         "currency_symbol": "Vt",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 5,
+        "phone_length_max": 5
     },
     {
         "name": "Venezuela (Bolivarian Republic of)",
@@ -3175,7 +3627,9 @@
         "currency_symbol": "Bs F",
         "language_code": "es",
         "language_name": "Spanish",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 7,
+        "phone_length_max": 7
     },
     {
         "name": "Viet Nam",
@@ -3189,7 +3643,9 @@
         "currency_symbol": "₫",
         "language_code": "vi",
         "language_name": "Vietnamese",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 9,
+        "phone_length_max": 9
     },
     {
         "name": "Wallis and Futuna",
@@ -3203,7 +3659,9 @@
         "currency_symbol": "Fr",
         "language_code": "fr",
         "language_name": "French",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 6,
+        "phone_length_max": 6
     },
     {
         "name": "Wallis and Futuna",
@@ -3217,7 +3675,9 @@
         "currency_symbol": "Fr",
         "language_code": "fr",
         "language_name": "French",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 6,
+        "phone_length_max": 6
     },
     {
         "name": "Yemen",
@@ -3231,7 +3691,9 @@
         "currency_symbol": "﷼",
         "language_code": "ar",
         "language_name": "Arabic",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 9,
+        "phone_length_max": 9
     },
     {
         "name": "Zambia",
@@ -3245,7 +3707,9 @@
         "currency_symbol": "ZK",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": ""
+        "language_native_name": "",
+        "phone_length_min": 9,
+        "phone_length_max": 9
     },
     {
         "name": "Zimbabwe",
@@ -3259,6 +3723,8 @@
         "currency_symbol": "P",
         "language_code": "en",
         "language_name": "English",
-        "language_native_name": "English"
+        "language_native_name": "English",
+        "phone_length_min": 9,
+        "phone_length_max": 9
     }
 ]
